@@ -17,6 +17,10 @@ To test my knowledge on HTML learned throughout the first week of class.
 
 N/A
 
+## Link to site
+
+site is live at https://tracij1286.github.io/Homework-1/
+
 ## License
 
 Please refer to the LICENSE in the repo.
